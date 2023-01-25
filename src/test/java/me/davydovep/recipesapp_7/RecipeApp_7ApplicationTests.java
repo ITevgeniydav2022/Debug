@@ -1,10 +1,10 @@
-package me.davydovep.recipesapp_7;
+package pro.sky.recipeapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RecipesApp7ApplicationTests {
+class RecipeAppApplicationTests {
 
     @Test
     void contextLoads() {
